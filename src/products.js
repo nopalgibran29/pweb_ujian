@@ -9,7 +9,7 @@ import imageProduct8 from './assets/images/p_8.jpg'
 export const products = [
     {
         id: 1,
-        name: 'Dior Sauvage',
+        name: 'Dior Sauvage Parfum',
         price: 200,
         image: imageProduct1,
         description: "Sauvage is an act of creation inspired by wide-open spaces. A composition marked by a raw freshness, powerful and noble all at once.",
@@ -33,7 +33,7 @@ export const products = [
     },
     {
         id: 4,
-        name: 'Bleu de Chanel',
+        name: 'Bleu de Chanel Eau De Parfum',
         price: 250,
         image: imageProduct4,
         description: "BLEU DE CHANEL Eau de Parfum is an aromatic-woody fragrance that teams New Caledonian sandalwood with notes of ambery cedar and tonka bean. Its trail is warm and sensual.",
